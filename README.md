@@ -1,4 +1,4 @@
 
-# The Odin Project
+# Recipes
 
-This is a repository for my projects and documenting my progress at TOP.
+A simple project to work on HTML concepts as part f TOP curriculum.
