@@ -1,4 +1,4 @@
 
 # The Odin Project
 
-This repository for my projects and documenting my progress at TOP.
+This is a repository for my projects and documenting my progress at TOP.
