@@ -1,0 +1,14 @@
+*{
+    background-color: bisque;
+}
+
+body{
+    text-align: center;
+}
+
+ul,
+ol {
+    list-style-position: inside; /* Coloca os marcadores dentro do elemento */
+    padding: 0; /* Remove o padding padrão */
+    text-align: center; /* Centraliza o texto */
+}
